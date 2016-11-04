@@ -19,7 +19,7 @@ namespace WebAPITest.Controllers
                 allCustomers.Add(new Customer
                 {
                     CustomerID = 1000,
-                    CustomerName = "Customer1"
+                    CustomerName = "Customer100"
                 });
                 
             }
