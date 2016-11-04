@@ -39,3 +39,6 @@ c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAP
 c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAPITest\obj\Debug\WebAPITest.csprojResolveAssemblyReference.cache
 c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAPITest\obj\Debug\WebAPITest.dll
 c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAPITest\obj\Debug\WebAPITest.pdb
+c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAPITest\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAPITest\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\biswaranjan.rout\documents\visual studio 2015\Projects\WebAPITest\WebAPITest\bin\System.IdentityModel.Tokens.Jwt.xml
